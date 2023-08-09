@@ -1,4 +1,4 @@
-![image](https://github.com/fr0gtech/frogBump/assets/119510346/1d8aace9-cd0a-44a3-9bd1-ce191511fa05)
+![image](https://github.com/fr0gtech/frogBump/assets/119510346/41f691d4-d495-485a-ab95-8c40036a8baf)
 
 # frogBumper
  random video player made in unity urp 3d.
@@ -16,6 +16,5 @@
  Chat integration
 
  ### Credits
-
  Keyboard images: https://thoseawesomeguys.com/prompts/
 
