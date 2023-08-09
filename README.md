@@ -2,8 +2,10 @@
 
 # frogBumper
  random video player made in unity urp 3d.
- All .mp4 files in a folder and every .mp4 in subfolders will be played shuffled. If all videos have played a new shuffled list is created and plays
-
+ All .mp4 files in a folder and every .mp4 in subfolders will be played shuffled.
+ If all videos have played a new shuffled list is created and plays.
+ This is made in unity to be able to expand it like adding other 3d elements and stuff.
+ 
 ## Keyboard Binds
  - [a] [d] Playback Speed
  - [w] [s] Volume
@@ -12,8 +14,8 @@
  - [ESC] Exit app
 
  ## Todo
- load videos from yt playlists
- Chat integration
+ - load videos from yt playlists
+ - Chat integration
 
  ### Credits
  Keyboard images: https://thoseawesomeguys.com/prompts/
