@@ -13,3 +13,7 @@
  load videos from yt playlists
  Chat integration
 
+ ### Credits
+
+ Keyboard images: https://thoseawesomeguys.com/prompts/
+
