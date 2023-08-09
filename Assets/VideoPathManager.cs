@@ -16,13 +16,14 @@ public class VideoPathManager : MonoBehaviour
 
     void Start()
     {
-        PlayerPrefs.DeleteKey(VideoPathKey);
+        // PlayerPrefs.DeleteKey(VideoPathKey);
         string savedVideoPath = PlayerPrefs.GetString(VideoPathKey);
         if (!string.IsNullOrEmpty(savedVideoPath))
         {
             isInitialSetupDone = true;
             videoPathInput.text = savedVideoPath;
             EnableVideoController(savedVideoPath);
+        }else{
             videoPathInput.text = GetDefaultVideoPath();
         }
 
